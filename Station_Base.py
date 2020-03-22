@@ -1,1 +1,1 @@
-print("station de base")
+print("station de base!")
